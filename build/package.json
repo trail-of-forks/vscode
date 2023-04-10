@@ -46,7 +46,7 @@
     "typescript": "3.9.0-dev.20200304",
     "vsce": "1.48.0",
     "vscode-telemetry-extractor": "^1.5.4",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.5.0"
   },
   "scripts": {
     "compile": "tsc -p tsconfig.build.json",
